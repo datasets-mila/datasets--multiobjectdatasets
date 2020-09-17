@@ -2,3 +2,4 @@
 *.jugdata/
 /.tmp/
 /logs/
+/bin/gsutil_build/
